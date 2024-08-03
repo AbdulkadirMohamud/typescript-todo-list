@@ -1,0 +1,22 @@
+{
+  "name": "typescript-todo-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@snowpack/plugin-typescript": "^1.2.1",
+    "canvas-confetti": "^1.9.3",
+    "prettier": "^3.3.3",
+    "snowpack": "^3.8.8",
+    "uuid": "^10.0.0"
+  }
+}
